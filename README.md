@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Collage Notice Management**
 
-- 🌱 I’m currently learning **React Native , backend**
+- 🌱 I’m currently Working **React Native - FrontEnd  , Nodejs,Expressjs,MongoDb - Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itspranav007](https://github.com/itspranav007)
 

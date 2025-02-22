@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Sunil Bhosale</h1>
 <h3 align="center">A passionate React Native Android application developer dedicated to creating seamless, intuitive, and high-performance mobile experiences</h3>
 
-- 🔭 I’m currently working on **Hostel Managment**
+- 🔭 I’m currently working on **Collage Notice Management**
 
 - 🌱 I’m currently learning **React Native , backend**
 

@@ -1,89 +1,147 @@
 <h1 align="center">Hi 👋, I'm Pranav Sunil Bhosale</h1>
-<h3 align="center">A passionate React Native Android application developer dedicated to creating seamless, intuitive, and high-performance mobile experiences</h3>
 
-- 🔭 I’m currently working on **College Notice Management**
+<h3 align="center">
+React Native Android Application Developer | Devtrex
+</h3>
 
-- 🌱 I’m currently working with **React Native (Frontend)** and **Node.js, Express.js, MongoDB (Backend)**
+<p align="center">
+Building fast, scalable & user-centric mobile applications with clean UI and solid architecture
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/itspranav007](https://github.com/itspranav007)
-
-- 📝 I regularly write articles on [https://medium.com/@Itspranav_developer](https://medium.com/@Itspranav_developer)
-
-- 📫 How to reach me: **pranavbhosalebhosale@gmail.com**, **hirepranavnow@gmail.com**
-
-- ⚡ Fun fact: *"Breaking bugs on the front end, fixing logic in the back end—React Native by day, debugger by night!"*
-
----
-
-### 👨‍💼 Experience
-
-**GTT Data Solutions**  
-*React Native Developer / Mobile App Developer*  
-📆 Feb 2025 – June 2025 (4 months)  
-Worked on designing and developing scalable Android apps using React Native with backend integration.
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-Android-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Android-App%20Developer-green?logo=android" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-success?logo=node.js" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?logo=github" />
+  <img src="https://img.shields.io/badge/Devtrex-Creator-black" />
+</p>
 
 ---
 
-### 🚀 Projects
+## 👨‍💻 About Me
 
-- **WaaleteWise** – A money record-keeping app to send and receive money with transaction logs.
-- **StackNote** – A productivity-focused note-taking app with a clean UI and fast performance.
-- **Utility Calculator** – An all-in-one calculator app (Scientific, Age, EMI, GST, etc.) designed for daily needs.
+- 🔭 Currently building **College Notice Management System**
+- 🌱 Working with:
+  - **Frontend:** React Native (Android-first approach)
+  - **Backend:** Node.js, Express.js, MongoDB
+- 👨‍💻 GitHub: [github.com/itspranav007](https://github.com/itspranav007)
+- 📝 Medium: [medium.com/@itspranav_developer](https://medium.com/@itspranav_developer)
+- 📫 Contact:
+  - pranavbhosalebhosale@gmail.com  
+  - hirepranavnow@gmail.com  
+- ⚡ Fun Fact:  
+  *Breaking bugs on the front end, fixing logic in the back end — React Native by day, debugger by night!*
 
 ---
 
-### 📝 Blog Posts
+## 🧑‍💼 Experience
+
+### **GTT Data Solutions**
+**React Native Developer / Mobile App Developer**  
+📆 **Feb 2025 – Jun 2025**
+
+**Key Contributions:**
+- Developed scalable **Android apps using React Native**
+- Integrated **REST APIs** with Node.js & MongoDB
+- Implemented **notifications, background tasks, alarms**
+- Improved app performance & UX
+- Collaborated across UI/Backend teams
+
+---
+
+## 🚀 Projects
+
+### 📱 WalletWise
+**Money & transaction management app**
+- Send & receive money
+- Transaction history & logs
+- Optimized UI for daily use
+
+### 📝 StackNote
+**High-performance note-taking app**
+- Category-based notes
+- Offline persistence
+- Minimal & fast UI
+
+### 🧮 Utility Calculator
+**All-in-one daily utility calculator**
+- Scientific Calculator
+- Age Calculator
+- EMI & GST Calculator
+
+### 🏫 College Notice Management System *(Ongoing)*
+- Role-based access (Admin / Student)
+- Real-time notices
+- Secure backend APIs
+
+---
+
+## 🎬 App Demo (GIFs)
+
+> *(Replace GIF links with your app recordings)*
+
+| App | Preview |
+|----|--------|
+| WalletWise | ![WalletWise Demo](https://media.giphy.com/media/your-gif-url.gif) |
+| StackNote | ![StackNote Demo](https://media.giphy.com/media/your-gif-url.gif) |
+| Utility Calculator | ![Calculator Demo](https://media.giphy.com/media/your-gif-url.gif) |
+
+---
+
+## 📝 Latest Blog Posts (Auto-Synced)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+> ✨ Blogs auto-update using **GitHub Actions + Medium RSS**
+
 ---
 
-### 🤝 Connect with me:
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/iampranavbhosale" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iampranavbhosale" height="30" width="40" />
+  <a href="https://linkedin.com/in/iampranavbhosale" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
-  <a href="https://instagram.com/itspranav_z" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itspranav_z" height="30" width="40" />
+  <a href="https://instagram.com/itspranav_z" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
-  <a href="https://medium.com/@itspranav_developer" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itspranav_developer" height="30" width="40" />
+  <a href="https://medium.com/@itspranav_developer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspranav007&show_icons=true&locale=en&layout=compact" alt="itspranav007" /></p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itspranav007&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspranav007&layout=compact" />
+</p>
+
+---
+
+### ⭐ Devtrex Philosophy
+> *Build real apps. Solve real problems. Ship with quality.*
+
+⭐ Star repositories you like and let’s build something impactful 🚀

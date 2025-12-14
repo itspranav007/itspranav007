@@ -69,33 +69,7 @@ Building fast, scalable & user-centric mobile applications with clean UI and sol
 - Age Calculator
 - EMI & GST Calculator
 
-### 🏫 College Notice Management System *(Ongoing)*
-- Role-based access (Admin / Student)
-- Real-time notices
-- Secure backend APIs
 
----
-
-## 🎬 App Demo (GIFs)
-
-> *(Replace GIF links with your app recordings)*
-
-| App | Preview |
-|----|--------|
-| WalletWise | ![WalletWise Demo](https://media.giphy.com/media/your-gif-url.gif) |
-| StackNote | ![StackNote Demo](https://media.giphy.com/media/your-gif-url.gif) |
-| Utility Calculator | ![Calculator Demo](https://media.giphy.com/media/your-gif-url.gif) |
-
----
-
-## 📝 Latest Blog Posts (Auto-Synced)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> ✨ Blogs auto-update using **GitHub Actions + Medium RSS**
-
----
 
 ## 🤝 Connect With Me
 
